@@ -34,10 +34,10 @@ After you make those changes, you will need to save the file as a .py file type.
 # HOW TO CHANGE THE .py FILE TO A .exe FILE
 
 Open an elevated command prompt window, and run the following command:
-"pip install auto-py-to-exe"
+```pip install auto-py-to-exe```
 
 After that installs, run the following command:
-"python -m auto_py_to_exe"
+```python -m auto_py_to_exe```
 
 You should get a window that pops up looking like this:
 
