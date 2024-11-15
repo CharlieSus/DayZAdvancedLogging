@@ -9,9 +9,6 @@ This script will automatically monitor a specified folder path for the newest fi
 
 HOW TO SETUP
 
-First, you need to install the requests library if you haven't already:
-"pip install requests"
-
 After downloading the AdvancedLogging.py script, there is some lines you need to change.
 First changes you need to make are under "log_directories"
 
@@ -36,7 +33,7 @@ After you make those changes, you will need to save the file as a .py file type.
 
 HOW TO CHANGE THE .py FILE TO A .exe FILE
 
-Reopen an elevated command prompt window, and run the following command:
+Open an elevated command prompt window, and run the following command:
 "pip install auto-py-to-exe"
 
 After that installs, run the following command:
