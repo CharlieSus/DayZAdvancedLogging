@@ -1,5 +1,7 @@
 # AdvancedLogging
-A python script to allow for advanced logging in DayZ
+A python script to allow for advanced logging in DayZ. You MUST have python installed already, I will not be doing a walkthrough on how to do that.
+I will also not be providing a walkthrough on how to do Discord WebHooks, as you should already know how to do that if you are going to use this.
+
 
 Introducing AdvancedLogging, a python based script to allow for advanced logging of DayZ logs, that attaches text files to discord webhooks.
 This script will automatically monitor a specified folder path for the newest file, and monitor said file to upload the newest line in the file as a message to discord.
@@ -52,7 +54,14 @@ At this time, you can either manually open it, and the logging will start, or yo
 You should get a command window that pops up, and it will search for the newest log file in the folder you specified.
 This command window will notify you if logging is successful, by stating that it is monitoring the newest log file.
 
-![Screenshot_486](https://github.com/user-attachments/assets/692415b6-51ec-49f6-a285-99ab48e3033f)
+![Screenshot_486](https://github.com/user-attachments/assets/e08d79d3-fc69-4251-9f4e-2a9d857699af)
+
+
+If you have set everything up properly, the script will automatically send a discord message to the proper webhook, to the channel that the webhook is linked to.
+The script will automatically pull the newest line in the text file, and send it as a message in Discord.
+
+![Screenshot_483](https://github.com/user-attachments/assets/58c4b9ba-9e02-4a62-a07f-a14bbfc985c9)
+
 
 
 
