@@ -7,7 +7,7 @@ Introducing AdvancedLogging, a python based script to allow for advanced logging
 This script will automatically monitor a specified folder path for the newest file, and monitor said file to upload the newest line in the file as a message to discord.
 
 
-HOW TO SETUP
+# HOW TO SETUP
 
 After downloading the AdvancedLogging.py script, there is some lines you need to change.
 First changes you need to make are under "log_directories"
@@ -31,7 +31,7 @@ Example screenshot is shown below:
 
 After you make those changes, you will need to save the file as a .py file type. Remember where you saved this, as you will need the file for the next step.
 
-HOW TO CHANGE THE .py FILE TO A .exe FILE
+# HOW TO CHANGE THE .py FILE TO A .exe FILE
 
 Open an elevated command prompt window, and run the following command:
 "pip install auto-py-to-exe"
