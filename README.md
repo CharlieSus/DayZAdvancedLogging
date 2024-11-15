@@ -1,4 +1,4 @@
-# AdvancedLogging
+# DayZAdvancedLogging
 A python script to allow for advanced logging in DayZ. You MUST have python installed already, I will not be doing a walkthrough on how to do that.
 I will also not be providing a walkthrough on how to do Discord WebHooks, as you should already know how to do that if you are going to use this.
 
