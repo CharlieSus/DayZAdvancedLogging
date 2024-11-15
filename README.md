@@ -53,7 +53,7 @@ You should get a window that pops up looking like this:
 
 ![Screenshot_494](https://github.com/user-attachments/assets/33239adc-137e-4458-98f3-5cfbb1a3b3d3)
 
-Browse for the newly created $${\color{red}AdvancedLogging.py}$$ file, and after you select it, click on $${\color{blue}CONVERT .PY TO .EXE}$$
+Browse for the newly created $${\color{red}AdvancedLogging.py}$$ file, and after you select it, click on ***CONVERT .PY TO .EXE***
 The file will create itself, and open up a window where the file has been created. 
 
 At this time, you can either manually open it, and the logging will start, or you can set up the .exe to automatically launch when you turn on the computer.
