@@ -15,7 +15,7 @@ This script will automatically monitor a specified folder path for the newest fi
 # HOW TO SETUP
 
 After downloading the $${\color{red}AdvancedLogging.py}$$ script, there is some lines you need to change.
-First changes you need to make are under <code style="color : AQUA">log_directories</code>
+First changes you need to make are under $${\color{red}log_directories}$$
 
 ![Screenshot_492](https://github.com/user-attachments/assets/d8722a62-7eba-4cc3-a1fe-3608cef28af6)
 
@@ -25,7 +25,7 @@ This is where you will put the file paths to your log directories. It should loo
 ![Screenshot_490](https://github.com/user-attachments/assets/bc37ac0a-b0a0-4ef9-b1c3-cad58a1b9346)
 
 
-Next, you will edit the ***<code style="color : AQUA">log_webhooks</code>*** section. This function will assign a webhook to said file paths.
+Next, you will edit the $${\color{red}log_webhooks}$$ section. This function will assign a webhook to said file paths.
 
 ![Screenshot_491](https://github.com/user-attachments/assets/8c9bcc7b-976d-48dd-80c0-a3ef1e98d2c6)
 
@@ -53,7 +53,7 @@ You should get a window that pops up looking like this:
 
 ![Screenshot_494](https://github.com/user-attachments/assets/33239adc-137e-4458-98f3-5cfbb1a3b3d3)
 
-Browse for the newly created <code style="color : AQUA">AdvancedLogging.py</code> file, and after you select it, click on <code style="color : AQUA">CONVERT .PY TO .EXE</code>
+Browse for the newly created $${\color{red}AdvancedLogging.py}$$ file, and after you select it, click on $${\color{blue}CONVERT .PY TO .EXE}$$
 The file will create itself, and open up a window where the file has been created. 
 
 At this time, you can either manually open it, and the logging will start, or you can set up the .exe to automatically launch when you turn on the computer.
