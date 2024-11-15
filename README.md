@@ -44,8 +44,15 @@ You should get a window that pops up looking like this:
 
 ![Screenshot_494](https://github.com/user-attachments/assets/33239adc-137e-4458-98f3-5cfbb1a3b3d3)
 
+Browse for the newly created AdvancedLogging.py file, and after you select it, click on "Convert .py to .exe"
+The file will create itself, and open up a window where the file has been created. 
 
+At this time, you can either manually open it, and the logging will start, or you can set up the .exe to automatically launch when you turn on the computer.
 
+You should get a command window that pops up, and it will search for the newest log file in the folder you specified.
+This command window will notify you if logging is successful, by stating that it is monitoring the newest log file.
+
+![Screenshot_486](https://github.com/user-attachments/assets/692415b6-51ec-49f6-a285-99ab48e3033f)
 
 
 
