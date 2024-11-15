@@ -13,7 +13,8 @@ First, you need to install the requests library if you haven't already:
 After downloading the AdvancedLogging.py script, there is some lines you need to change.
 First changes you need to make are under "log_directories"
 
-![Screenshot_489](https://github.com/user-attachments/assets/766e8aa7-dedd-4cee-a625-5e5392091cbd)
+![Screenshot_492](https://github.com/user-attachments/assets/d8722a62-7eba-4cc3-a1fe-3608cef28af6)
+
 
 This is where you will put the file paths to your log directories. It should look like the following example below.
 
@@ -24,3 +25,6 @@ Next, you will edit the "log_webhooks" section. This function will assign a webh
 
 ![Screenshot_491](https://github.com/user-attachments/assets/8c9bcc7b-976d-48dd-80c0-a3ef1e98d2c6)
 
+Example screenshot is shown below:
+
+![Screenshot_493](https://github.com/user-attachments/assets/7c2c9b62-e6a6-4c4c-af94-f8f92b702524)
