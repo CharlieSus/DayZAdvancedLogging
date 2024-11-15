@@ -15,7 +15,7 @@ This script will automatically monitor a specified folder path for the newest fi
 # HOW TO SETUP
 
 After downloading the $${\color{red}AdvancedLogging.py}$$ script, there is some lines you need to change.
-First changes you need to make are under $${\color{red}log_directories}$$
+First changes you need to make are under $${\color{red}"log_directories"}$$
 
 ![Screenshot_492](https://github.com/user-attachments/assets/d8722a62-7eba-4cc3-a1fe-3608cef28af6)
 
