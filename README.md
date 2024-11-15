@@ -12,3 +12,7 @@ First, you need to install the requests library if you haven't already:
 
 After downloading the AdvancedLogging.py script, there is some lines you need to change.
 First changes you need to make are under "log_directories"
+![Screenshot_489](https://github.com/user-attachments/assets/766e8aa7-dedd-4cee-a625-5e5392091cbd)
+
+This is where you will put the file paths to your log directories. It should look like the following example below.
+![Screenshot_490](https://github.com/user-attachments/assets/bc37ac0a-b0a0-4ef9-b1c3-cad58a1b9346)
