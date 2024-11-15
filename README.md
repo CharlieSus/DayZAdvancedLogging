@@ -28,3 +28,46 @@ Next, you will edit the "log_webhooks" section. This function will assign a webh
 Example screenshot is shown below:
 
 ![Screenshot_493](https://github.com/user-attachments/assets/7c2c9b62-e6a6-4c4c-af94-f8f92b702524)
+
+
+After you make those changes, you will need to save the file as a .py file type. Remember where you saved this, as you will need the file for the next step.
+
+HOW TO CHANGE THE .py FILE TO A .exe FILE
+
+Reopen an elevated command prompt window, and run the following command:
+"pip install auto-py-to-exe"
+
+After that installs, run the following command:
+"python -m auto_py_to_exe"
+
+You should get a window that pops up looking like this:
+
+![Screenshot_494](https://github.com/user-attachments/assets/33239adc-137e-4458-98f3-5cfbb1a3b3d3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
